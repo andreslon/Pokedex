@@ -90,6 +90,7 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <None Include="app.config" />
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -142,6 +143,459 @@
       <Project>{88DB519D-9C97-458A-A198-B17C63903962}</Project>
       <Name>Pokedex.Cross</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\abra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\aerodactyl.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\alakazam.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\arbok.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\arcanine.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\articuno.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\beedrill.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bellsprout.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\blastoise.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bulbasaur.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\butterfree.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\caterpie.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\chansey.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\charizard.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\charmander.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\charmeleon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\clefable.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\clefairy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cloyster.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cubone.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\dewgong.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\diglett.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ditto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\dodrio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\doduo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\dragonair.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\dragonite.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\dratini.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\drowzee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\dugtrio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\eevee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ekans.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\electabuzz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\electrode.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\exeggcute.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\exeggutor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\farfetchd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\fearow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\flareon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gastly.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gengar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\geodude.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gloom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\golbat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\goldeen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\golduck.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\golem.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\graveler.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\grimer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\growlithe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gyarados.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\haunter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hitmonchan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hitmonlee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\horsea.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hypno.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ivysaur.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\jigglypuff.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\jolteon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\jynx.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\kabuto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\kabutops.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\kadabra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\kakuna.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\kangaskhan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\kingler.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\koffing.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\krabby.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lapras.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lickitung.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\machamp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\machoke.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\machop.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\magikarp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\magmar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\magnemite.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\magneton.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mankey.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\marowak.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\meowth.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\metapod.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mew.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mewtwo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\moltres.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mrmime.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\muk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\nidoking.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\nidoqueen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\nidoranf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\nidoranm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\nidorina.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\nidorino.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ninetales.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\oddish.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\omanyte.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\omastar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\onix.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\paras.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\parasect.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\persian.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pidgeot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pidgeotto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pidgey.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pikachu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pinsir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\poliwag.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\poliwhirl.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\poliwrath.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ponyta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\porygon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\primeape.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\psyduck.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\raichu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\rapidash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\raticate.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\rattata.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\rhydon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\rhyhorn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sandshrew.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sandslash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\scyther.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\seadra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\seaking.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\seel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\shellder.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\slowbro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\slowpoke.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\snorlax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\spearow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\squirtle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\starmie.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\staryu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\tangela.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\tauros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\tentacool.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\tentacruel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\vaporeon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\venomoth.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\venonat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\venusaur.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\victreebel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\vileplume.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\voltorb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\vulpix.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\wartortle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\weedle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\weepinbell.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\weezing.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\wigglytuff.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\zapdos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\zubat.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Forms.2.0.0.6482\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.2.0.0.6482\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" />

@@ -13,7 +13,7 @@ namespace Pokedex.Cross
         {
             InitializeComponent();
 
-            MainPage = new Pokedex.Cross.MainPage();
+            MainPage = new Pokedex.Cross.Views.PokedexPage();
         }
 
         protected override void OnStart()

@@ -1,0 +1,9 @@
+﻿<Properties StartupItem="Pokedex.Cross\Pokedex.Cross.Droid\Pokedex.Cross.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.Pokedex.Cross.Droid PreferredExecutionTarget="Android.169.254.138.177:5555" />
+</Properties>
