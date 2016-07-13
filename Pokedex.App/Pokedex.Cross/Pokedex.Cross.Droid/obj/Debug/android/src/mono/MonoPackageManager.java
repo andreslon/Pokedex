@@ -126,6 +126,7 @@ class MonoPackageManager_Resources {
 		"System.Runtime.InteropServices.dll",
 		"System.Resources.ResourceManager.dll",
 		"System.Diagnostics.Tools.dll",
+		"GalaSoft.MvvmLight.dll",
 		"Newtonsoft.Json.dll",
 		"System.Xml.XDocument.dll",
 		"System.Runtime.Serialization.Primitives.dll",

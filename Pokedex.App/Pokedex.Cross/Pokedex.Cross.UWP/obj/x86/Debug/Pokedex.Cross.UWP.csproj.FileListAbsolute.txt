@@ -1,0 +1,11 @@
+D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.UWP\obj\x86\Debug\Pokedex.Cross.UWP.csprojResolveAssemblyReference.cache
+D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.UWP\obj\x86\Debug\App.g.i.cs
+D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.UWP\obj\x86\Debug\App.g.cs
+D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.UWP\obj\x86\Debug\MainPage.g.cs
+D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.UWP\obj\x86\Debug\App.xaml
+D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.UWP\obj\x86\Debug\MainPage.xaml
+D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.UWP\obj\x86\Debug\App.xbf
+D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.UWP\obj\x86\Debug\MainPage.xbf
+D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.UWP\obj\x86\Debug\XamlSaveStateFile.xml

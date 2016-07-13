@@ -42,6 +42,7 @@ D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.Droid\obj\Debug\android
 D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
 D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll
+D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.Droid\obj\Debug\android\assets\GalaSoft.MvvmLight.dll
 D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.Droid\obj\Debug\android\assets\Newtonsoft.Json.dll
 D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.Droid\obj\Debug\android\assets\System.Xml.XDocument.dll
 D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross.Droid\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll

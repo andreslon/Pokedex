@@ -10,6 +10,7 @@ namespace Pokedex.Cross.Models
     {
         public string id { get; set; }
         public string name { get; set; }
+        public string image { get; set; }
         public string species { get; set; }
         public List<string> type { get; set; }
         public string height { get; set; }

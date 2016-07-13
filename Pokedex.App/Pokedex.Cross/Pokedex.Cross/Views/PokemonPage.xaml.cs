@@ -13,6 +13,7 @@ namespace Pokedex.Cross.Views
         public PokemonPage()
         {
             InitializeComponent();
+            BindingContext = App.selectedPokemon;
         }
     }
 }

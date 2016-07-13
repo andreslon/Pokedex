@@ -14,7 +14,7 @@ namespace Pokedex.Cross.Views
         public PokedexPage()
         {
             InitializeComponent();
-            BindingContext = new PokedexViewModel();
+            BindingContext = App.PokedexViewModel;
         }
     }
 }
