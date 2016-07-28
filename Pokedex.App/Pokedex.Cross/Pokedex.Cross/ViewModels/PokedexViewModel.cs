@@ -43,7 +43,7 @@ namespace Pokedex.Cross.ViewModels
                         {
                             name = pokemon.name,
                             species = pokemon.species,
-                            image = $"{pokemon.name}.jpg"
+                            image = $"{pokemon.name.ToLower()}.jpg"
                         });
                     }
                 }

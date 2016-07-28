@@ -29,5 +29,6 @@ D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross\bin\Debug\GalaSoft.Mvvm
 D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross\bin\Debug\GalaSoft.MvvmLight.Extras.xml
 D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross\obj\Debug\Pokedex.Cross.csprojResolveAssemblyReference.cache
 D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross\obj\Debug\Pokedex.Cross.dll.mdb
 D:\Repos\Pokedex\Pokedex.App\Pokedex.Cross\Pokedex.Cross\bin\Debug\Pokedex.Cross.dll.mdb

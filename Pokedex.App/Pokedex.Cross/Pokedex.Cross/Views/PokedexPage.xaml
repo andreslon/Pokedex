@@ -3,10 +3,6 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              Title="Pokedex"
              x:Class="Pokedex.Cross.Views.PokedexPage">
-
-  
-  
-  
   <Grid>
 
     <ListView ItemsSource="{Binding Pokemons, Mode=TwoWay}">
@@ -18,11 +14,11 @@
                 <TapGestureRecognizer Command="{Binding SelectCommand}" />
               </Grid.GestureRecognizers>
               <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="60"/>
+                <ColumnDefinition Width="80"/>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
               </Grid.ColumnDefinitions>
-              <Image Source="{Binding image, Mode=TwoWay}" ></Image>
+              <Image Source="{Binding image, Mode=TwoWay}" HeightRequest="80" WidthRequest="80" ></Image>
               <Label Grid.Column="1" Text="{Binding name, Mode=TwoWay}"   FontAttributes="Bold"/>
               <Label Grid.Column="2" Text="{Binding species, Mode=TwoWay}" />
             </Grid>
